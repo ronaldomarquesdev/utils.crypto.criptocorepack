@@ -10,7 +10,7 @@
  * LICENSE: SEE FULL DOCUMMENTATION. IT IS A PERSONAL PROJECT, THER IS NO LICENSE YET (either copy or usage are discouraged).
  * 
  * DESCRIPTION:
- *     - SUBJECT: Plain text symmetric and asymmetric cryptography package;
+ *     - PROJECT SUBJECT: Plain text symmetric and asymmetric cryptography package;
  *     - PROJECT NAME: Cryptography Core Package Project;
  *     - PROJECT ALIAS: CryptoCorePack.
  *     
@@ -39,7 +39,7 @@
 
 
 /* PACKAGE OWNER. */
-package dev.ronaldomarques.cryptocorepack;
+package dev.ronaldomarques.utils.crypto.cryptocorepack;
 
 
 /* IMPORT OF DEPENDENCES. */
