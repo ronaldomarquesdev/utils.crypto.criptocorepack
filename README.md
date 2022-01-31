@@ -14,7 +14,7 @@ Cryptogrphy Core Package Project - `README.md (v7)`
 - GITHUB;
 - GITFLOW.  
   
-The **CryptoCorePack** project belongs to author's portfolio. The detailed project can be followed on his GitHub Projects List: [ rewriting link - github.com/users/RO.../.../](#). It is also found on author's web-portfolio: [ronaldomarques.dev](https://www.ronaldomarques.dev).  
+The **CryptoCorePack** project belongs to author's portfolio. The detailed project can be followed on his GitHub Projects List: [github.com/users/ronaldomarquesdev/projects/](https://github.com/users/ronaldomarquesdev/projects/). It is also found on author's web-portfolio: [ronaldomarques.dev](https://www.ronaldomarques.dev).  
   
 &nbsp;  
 &nbsp;  
@@ -53,7 +53,7 @@ First phase of project, CryptoCorePack must be able to respond by itself to the 
   
 CryptoCorePack's **first goal** is to release a MVP (minimum viable product), a version which has no all features projected, but has the main ones.  
   
-CryptoCorePack's **second goal** is to release the first full stable version which has its full description, such as features, options, and to-do-list, found in the [rewriting link project's documentation](#).  
+CryptoCorePack's **second goal** is to release the first full stable version which has its full description, such as features, options, and to-do-list, found in the [project's main documentation](https://github.com/ronaldomarquesdev/utils.crypto.ccp/tree/main/documentation).  
   
 &nbsp;  
 &nbsp;  
@@ -71,7 +71,7 @@ Thus, CryptoCorePack uses **_SemVer_** for its versioning. **SemVer** is a speci
   
 #### Next Versions: 0.1.0-alpha;
   
-A detailed description of each past and current version and, the roadmap for the future versions can be found in the [rewriting link - project's documentation](#).  
+A detailed description of each past and current version and, the roadmap for the future versions can be found in the [project's version documentation](https://github.com/ronaldomarquesdev/utils.crypto.ccp/blob/main/documentation/versioning.md).  
 
 &nbsp;  
 &nbsp;  
