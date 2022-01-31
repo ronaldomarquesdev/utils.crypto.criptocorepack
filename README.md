@@ -14,7 +14,7 @@ Cryptogrphy Core Package Project - `README.md (v7)`
 - GITHUB;
 - GITFLOW.  
   
-The **CryptoCorePack** project belongs to author's portfolio. The detailed project can be followed on his GitHub Projects List: [github.com/users/ROPIMASI/projects/](https://github.com/users/ROPIMASI/projects/). It is also found on author's web-portfolio: [ronaldomarques.dev](https://www.ronaldomarques.dev).  
+The **CryptoCorePack** project belongs to author's portfolio. The detailed project can be followed on his GitHub Projects List: [ rewriting link github.com/users/ROPIMASI/projects/](#). It is also found on author's web-portfolio: [ronaldomarques.dev](https://www.ronaldomarques.dev).  
   
 &nbsp;  
 &nbsp;  
