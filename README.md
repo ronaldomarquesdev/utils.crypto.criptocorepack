@@ -35,7 +35,7 @@ The **CryptoCorePack** project belongs to author's portfolio. The detailed proje
 &nbsp;  
 &nbsp;  
 &nbsp;  
-<a name="description"></a>
+<a name="description"></a> 
 
 ## Description
 - SUBJECT: Plain text symmetric and asymmetric cryptography package;
