@@ -14,7 +14,7 @@ Cryptogrphy Core Package Project - `README.md (v7)`
 - GITHUB;
 - GITFLOW.  
   
-The **CryptoCorePack** project belongs to author's portfolio. The detailed project can be followed on his GitHub Projects List: [ rewriting link github.com/users/ROPIMASI/projects/](#). It is also found on author's web-portfolio: [ronaldomarques.dev](https://www.ronaldomarques.dev).  
+The **CryptoCorePack** project belongs to author's portfolio. The detailed project can be followed on his GitHub Projects List: [ rewriting link - github.com/users/RO.../.../](#). It is also found on author's web-portfolio: [ronaldomarques.dev](https://www.ronaldomarques.dev).  
   
 &nbsp;  
 &nbsp;  
@@ -48,21 +48,13 @@ The **CryptoCorePack** project belongs to author's portfolio. The detailed proje
 <a name="project-objective"></a>
 
 ## Project's objective
-The objective of this project is to implement a package of Java classes with symmetric and asymmetric cryptography features applicable to plain text values and  plain text files. The package should be implemented in such a way that it can be distributed and imported by others projects. First, CryptoCorePack must be able to respond by itself to the interactivity of the Command-Line-Interface (CLI), after, should be importable to other desktop or server projects, and then, integrable with Web-Services projects.  
+The objective of this project is to implement a package of Java classes with symmetric and asymmetric cryptography features applicable to plain text values and  plain text files. The package should be implemented in such a way that it can be distributed and imported by others projects.  
+First phase of project, CryptoCorePack must be able to respond by itself to the interactivity of the Command-Line-Interface (CLI), later on second phase, should be importable to other desktop or server projects, and then on third phase, integrable with Web-Services projects.  
   
 CryptoCorePack's **first goal** is to release a MVP (minimum viable product), a version which has no all features projected, but has the main ones.  
   
-CryptoCorePack's **second goal** is to release the first full stable version which has its full description, such as features, options, and to-do-list, found in the [project's documentation](https://github.com/ROPIMASI/CryptoCorePack/tree/master/documentation/README.FIRST.md).  
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-<a name="author"></a>
-
-## Author
-- **Ronaldo Marques** - _Project designing_, _Documentations_, _Implementations_, _Testings_ - [ROPIMASI](https://github.com/ROPIMASI).  
-See also the list of [**contributors**](https://github.com/ROPIMASI/CryptoCorePack/blob/master/documentation/contributors.md) who are participating in CryptoCorePack Project.  
-
+CryptoCorePack's **second goal** is to release the first full stable version which has its full description, such as features, options, and to-do-list, found in the [rewriting link project's documentation](#).  
+  
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -71,21 +63,24 @@ See also the list of [**contributors**](https://github.com/ROPIMASI/CryptoCorePa
 ## Versions
 On a team project, is very important to know and to follow the project's versioning specifications. Although at the moment CryptoCorePack's status is under early development because it has not its first stable version released yet (1.0.0-stable), and it is being developed privately (without community cooperation), it already is designed under [**SemVer** (Semantic Versioning Specification)](http://semver.org/). Maybe it will become a team project in the future.  
   
-Thus, CryptoCorePack uses **_SemVer_** for its versioning. **SemVer** is a specification (set of rules) that tells(or dictates) us how to use the numbers (and some letters) on the _versioning-expression_ (VerExpr). More specifically, CriptoCorePack uses _Major.Minor.Patch-ReleaseStatus+Build_.  
-  
-The standard flags of _ReleaseStatus_ for the _versioning-expression_ are as follows:
-- **_dev_**: in early development, usage not encouraged;
-- **_alpha_**: in development, first test phase, it's encouraged usage for **test only** by people involved with software development, at self-own risk;
-- **_beta_**: in pre-release version, general public usage is acceptable, however, only for test, usage is a choice at self-own risk;
-- **_stable_**: stable tested release version; bugs are possible to appear, so it would come back to a _hotfix-branch_ if needed.  
-  
+Thus, CryptoCorePack uses **_SemVer_** for its versioning. **SemVer** is a specification (set of rules) that tells(or dictates) us how to use the numbers (and some letters) on the _versioning-expression_ (VerExpr). More specifically, CriptoCorePack uses _Major.Minor.Patch-ReleaseStatus+Build_. [**Learn more about CryptoCorePack's Versions !**](#)  
+
 #### Last Versions: 0.1.0-dev+20191130;
   
 #### Current Versions: 0.1.0-dev+20200428;
   
 #### Next Versions: 0.1.0-alpha;
   
-A detailed description of each past and current version and, the milestones for the future versions can be found in the [project's documentation](https://github.com/ROPIMASI/CryptoCorePack/tree/master/documentation/README.FIRST.md).  
+A detailed description of each past and current version and, the roadmap for the future versions can be found in the [rewriting link - project's documentation](#).  
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+<a name="author"></a>
+
+## Author
+- **Ronaldo Marques** - _Project designing_, _Documentations_, _Implementations_, _Testings_ - [ROPIMASI](https://github.com/ronaldomarquesdev).  
+See also the list of [rewriting link **contributors**](#) who are participating in CryptoCorePack Project.  
 
 &nbsp;  
 &nbsp;  
