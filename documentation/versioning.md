@@ -1,7 +1,7 @@
 <a name="presentation"></a>
 
 # Versioning
-`documentation/versioning.md (v6)`
+`documentation/versioning.md (v6)`  
 This document is the official CryptoCorePack's versioning documentation. This includes the project's versioning method and a simple historical list of released versions, in which, lines are added by the project's author only.  
   
 As mentioned on `README.md` at root directory, CryptoCorePack has been developed under _SemVer_. Thus, it uses a composed of five parts VerExpr: Major.Minor.Patch-ReleaseStatus+Build (in short form M.m.p-r+b). Even it seems to be too long, but who getting involved with the project can notice that it is not, since the numbers and words used on _versioning-expression_ are small, and more importantly, the two last flags (ReleaseStatus and Build) are optional, needed in some cases. Examples: **0.1.0-beta**, **2.4.1-stable+20201005**.
