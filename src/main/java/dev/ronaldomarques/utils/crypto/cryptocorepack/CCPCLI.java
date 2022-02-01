@@ -65,7 +65,7 @@ public class CCPCLI {
 				break;
 				
 			case 'h':
-				System.out.println("\n"+ CCPStandards.usageExplanaion +"\n");
+				System.out.println("\n"+ CCPStandards.usageExplanation +"\n");
 				break;
 
 			case 'e':

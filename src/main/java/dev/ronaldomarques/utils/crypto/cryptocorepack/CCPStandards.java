@@ -59,8 +59,8 @@ public final class CCPStandards { // v3
 	public static final String PROJ_NAME = "Cryptography Core Package Project";
 	public static final String PROJ_ALIAS = "CryptoCorePack";
 	public static final String PROJ_PACKAGE_PATH = "dev/ronaldomarques/cryptocorepack";
-	public static final String PROJ_PACKAGE_NAME = "dev.ronaldomarques.cryptocorepack";
-	public static final String PROJ_BUILD = "20200611";
+	public static final String PROJ_PACKAGE_NAME = "dev.ronaldomarques.utils.crypto.cryptocorepack";
+	public static final String PROJ_BUILD = "20210131";
 	public static final String PROJ_PRE_VERSION = "dev";
 	public static final String PROJ_VERSION_PATCH = "0";
 	public static final String PROJ_VERSION_MINOR = "1";
@@ -112,10 +112,10 @@ public final class CCPStandards { // v3
 	
 	
 	/* Text to be printed as SYNTAX. */
-	public static final String usageSyntaxe = "Usage syntax> under developing...";
+	public static final String usageSyntaxe = "Usage syntax: under developing...";
 	
 	/* Text to be printed as HELP. */
-	public static final String usageExplanaion = "Usage explanation> under developing...";
+	public static final String usageExplanation = "Usage explanation: under developing...";
 }
   
 
