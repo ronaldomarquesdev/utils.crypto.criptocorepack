@@ -4,7 +4,8 @@
 Cryptogrphy Core Package Project  
 &nbsp;  
 &nbsp;  
-&nbsp;
+&nbsp;  
+
 #### The CryptoCorePack and its resources are a personal project sample, which had been developed to demonstrate some of Author' skills:
 - OOP;
 - JAVA;
