@@ -1,7 +1,7 @@
 <a name="presentation"></a>
 
 # CryptoCorePack
-Cryptogrphy Core Package Project - `README.md (v7)`  
+Cryptogrphy Core Package Project  
 &nbsp;  
 &nbsp;  
 &nbsp;
